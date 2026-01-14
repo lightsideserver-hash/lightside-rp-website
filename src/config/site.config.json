@@ -1,0 +1,211 @@
+{
+  "seo": {
+    "title": "LightSide RolePlay - Prémium GTA V FiveM RP Szerver",
+    "shortTitle": "LightSide RP",
+    "description": "Csatlakozz a LightSide RolePlay szerverhez – egy valósághű GTA V FiveM roleplay élmény egyedi rendszerrel, aktív közösséggel és végtelen RP lehetőségekkel. Jelentkezz whitelist-re még ma!",
+    "keywords": [
+      "FiveM",
+      "GTA V",
+      "Roleplay",
+      "RP Szerver",
+      "GTA Roleplay",
+      "FiveM Server",
+      "Gaming Community",
+      "Los Santos",
+      "Whitelist Szerver"
+    ],
+    "ogImage": "/images/og-image.jpg",
+    "twitterCard": "summary_large_image",
+    "twitterHandle": "@lightsiderp",
+    "favicon": "/favicon.ico",
+    "themeColor": "#47761E",
+    "locale": "hu_HU",
+    "url": "https://lightside-rp.com"
+  },
+  "legal": {
+    "companyName": "LightSide RolePlay",
+    "email": "lightside.server@gmail.com",
+    "privacyEmail": "lightside.server@gmail.com",
+    "supportEmail": "lightside.server@gmail.com",
+    "lastUpdated": "2026-01-14",
+    "minAge": 16,
+    "copyrightYear": 2025,
+    "dataRetention": {
+      "characterData": "6 hónap inaktivitás után",
+      "chatLogs": "30 nap",
+      "connectionLogs": "90 nap",
+      "banRecords": "Véglegesen",
+      "whitelistApplications": "1 év"
+    }
+  },
+  "server": {
+    "name": "LightSide RolePlay",
+    "tagline": "Ahol a történetek életre kelnek",
+    "description": "Tapasztald meg a GTA V egyik legélethűbb FiveM roleplay szerverét egyedi rendszerekkel, aktív közösséggel és végtelen lehetőségekkel.",
+    "ip": "hamarosan...",
+    "port": "30120",
+    "discord": "https://discord.gg/lightsideroleplay",
+    "maxPlayers": 256,
+    "logo": {
+        "type": "image",
+        "content": "https://cdn.discordapp.com/icons/1458550489871290423/93d57c8fb19dc0f2249c620f36fa36f2.webp?size=1024",
+      "_comment": "type lehet 'text' vagy 'image'. Text esetén betűk, image esetén útvonal vagy URL"
+    },
+    "loadingTips": [
+      "Mindig maradj karakterben (IC)",
+      "Nyomd meg az F1-et a segítség menühöz",
+      "Csatlakozz Discordhoz a friss hírekért",
+      "A minőségi roleplay mindig jutalmazva van"
+    ]
+  },
+  "features": [
+    {
+      "id": "custom-framework",
+      "title": "Stabil alapokra építve",
+      "description": "Megbízható, optimalizált rendszerek a zökkenőmentes és folyamatos játékélményért.",
+      "icon": "Code2"
+    },
+    {
+      "id": "voice-chat",
+      "title": "Valósághű kommunikáció",
+      "description": "Közelségalapú beszéd és rádióhasználat a hiteles roleplay érdekében.",
+      "icon": "Mic"
+    },
+    {
+      "id": "economy",
+      "title": "Élő gazdasági rendszer",
+      "description": "Folyamatosan változó gazdaság, ahol a játékosok döntései formálják a piacot.",
+      "icon": "DollarSign"
+    },
+    {
+      "id": "housing",
+      "title": "Saját élettér",
+      "description": "Lakások és házak, amelyek a karaktered történetének részévé válnak.",
+      "icon": "Home"
+    },
+    {
+      "id": "vehicles",
+      "title": "Széles járműválaszték",
+      "description": "Mindennapi és különleges járművek, a városi élet minden helyzetére.",
+      "icon": "Car"
+    },
+    {
+      "id": "events",
+      "title": "Aktív közösségi élet",
+      "description": "Rendszeres szerveres események, amelyek új történeteket és lehetőségeket nyitnak meg.",
+      "icon": "Calendar"
+    }
+  ],
+  "rules": [
+    {
+      "id": "rdm",
+      "title": "Random Deathmatch (RDM) tilos",
+      "description": "Indíték nélküli ölés szigorúan tilos. Minden erőszakos cselekménynek valós és lejátszott roleplay előzményre kell épülnie."
+    },
+    {
+      "id": "vdm",
+      "title": "Vehicle Deathmatch (VDM) tilos",
+      "description": "Jármű fegyverként való használata roleplay indok nélkül nem engedélyezett."
+    },
+    {
+      "id": "metagaming",
+      "title": "Metagaming (MG) tilos",
+      "description": "Karakteren kívüli (OOC) információk karakteren belüli (IC) felhasználása szigorúan tilos."
+    },
+    {
+      "id": "powergaming",
+      "title": "PowerGaming (PG) tilos",
+      "description": "Más játékosokra erőltetett cselekvések vagy irreális képességek használata nem megengedett."
+    },
+    {
+      "id": "respect",
+      "title": "Tisztelet mindenkivel szemben",
+      "description": "Minden játékost és staff tagot kötelező tisztelettel kezelni, IC és OOC egyaránt."
+    }
+  ],
+  "team": [
+    {
+      "id": "john-doe",
+      "name": "Félix",
+      "role": "Tulajdonos",
+      "avatar": "https://cdn.discordapp.com/avatars/539908622935654401/44a0034980afb39f10e60e6e3fe9212b.webp?size=1024",
+      "discord": "felix9842",
+      "description": "A szerver alapítója és tulajdonosa. Meghatározza a szerver irányvonalát és felügyeli a teljes működést."
+    },
+    {
+      "id": "mike-wilson",
+      "name": "D4якω1rє™",
+      "role": "Fejlesztő",
+      "avatar": "https://cdn.discordapp.com/avatars/1155047381092548618/26b128e5e797de3a88b0c203493479e9.webp?size=1024",
+      "discord": "_d4rkw1re_",
+      "description": "A szerver technikai hátteréért felelős. Szkriptek, rendszerek fejlesztése és optimalizálása."
+    },
+    {
+      "id": "jane-smith",
+      "name": "ANémeth",
+      "role": "Server Manager",
+      "avatar": "https://cdn.discordapp.com/avatars/340136060271067138/a5fdb3360f6c8b7a66c3716243941490.webp?size=1024",
+      "discord": "anemeth0316",
+      "description": "A szerver napi működésének felügyelete, staff koordináció és közösségkezelés."
+    }
+  ],
+  "api": {
+    "serverCode": "replaceme",
+    "cfxApiUrl": "https://servers-frontend.fivem.net/api/servers/single/",
+    "refreshInterval": 30000,
+    "_comment": "A serverCode a https://servers.fivem.net oldalon található, a szerver URL-jéből"
+  },
+  "social": {
+    "discord": "https://discord.gg/lightsideroleplay",
+    "twitter": "https://twitter.com/lightsiderp",
+    "youtube": "https://youtube.com/@lightsiderp",
+    "tiktok": "https://tiktok.com/@lightsiderp",
+    "instagram": "https://instagram.com/lightsiderp",
+    "twitch": "https://twitch.tv/lightsiderp"
+  },
+  "whitelist": {
+    "enabled": true,
+    "applicationUrl": "https://apply.lightside-rp.com",
+    "requirements": [
+      "Minimum 16 éves életkor",
+      "Működő mikrofon",
+      "Szabályzat elolvasása és megértése",
+      "Karaktertörténet sikeres elbírálása"
+    ]
+  },
+  "donations": {
+    "enabled": true,
+    "currency": "USD",
+    "packages": [
+      {
+        "name": "Supporter",
+        "price": 5,
+        "perks": [
+          "Prioritásos csatlakozás",
+          "Supporter rang"
+        ]
+      },
+      {
+        "name": "VIP",
+        "price": 15,
+        "perks": [
+          "Prioritásos csatlakozás",
+          "VIP rang",
+          "Extra karakter slot",
+          "Egyedi rendszám"
+        ]
+      },
+      {
+        "name": "Elite",
+        "price": 30,
+        "perks": [
+          "Prioritásos csatlakozás",
+          "Elite rang",
+          "2 extra karakter slot",
+          "Egyedi rendszám",
+          "Exkluzív járművek"
+        ]
+      }
+    ]
+  }
+}
